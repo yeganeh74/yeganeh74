@@ -1,7 +1,7 @@
-- 👋 Hi, I’m ali yeganeh74
-- 👀 I’m interested in python coding
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on coding python projects
+- 👋 Hi, I’m ali yeganeh
+- 👀 I’m interested in data science
+- 🌱 pandas,numpy, sql is my intersting coding 
+- 💞️ I’m looking to collaborate on coding data science projects
 - 📫 How to reach me ...
 
 <!---
